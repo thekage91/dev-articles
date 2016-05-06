@@ -1,3 +1,7 @@
+##Useful development blog
+* [John Papa](http://www.johnpapa.net/)
+* [Netflox Tech Blog](http://techblog.netflix.com/)
+
 ###Optimizing the Netflix API
 [Read](http://techblog.netflix.com/2013/01/optimizing-netflix-api.html)
 
@@ -8,3 +12,8 @@
 ###Getting started with Falcor
 Learn the essentials of Falcor--the newly open-sourced library from Netflix that lets you represent your data as a single virtual JSON object.
 [Read](https://auth0.com/blog/2015/08/28/getting-started-with-falcor/)
+
+###Angular 2 Series
+[Part 1 - Working with pipes](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/
+
+)
