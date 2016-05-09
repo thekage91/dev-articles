@@ -11,6 +11,9 @@
 
 ##Front-end
 * [Angular 2 Series Part 1 - Working with pipes](https://auth0.com/blog/2015/09/03/angular2-series-working-with-pipes/)
+* [Opinionated AngularJs Styleguide for teams](https://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 
 ##Data fetching
-* [Getting Started With Falcor](https://auth0.com/blog/2015/08/28/getting-started-with-falcor/)
+* [Getting Started With Falcor](https://auth0.com/blog/2015/08/28/getting-started-with-falcor/) - from Auth0
+
+
