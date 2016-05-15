@@ -2,6 +2,9 @@
 * [John Papa](http://www.johnpapa.net/)
 * [Netflox Tech Blog](http://techblog.netflix.com/)
 
+##Dev Tools
+* [Fake Online REST API for Testing and Prototyping](http://jsonplaceholder.typicode.com/)
+
 ##IT Infrastructure
 * [Optimizing the Netflix API](http://techblog.netflix.com/2013/01/optimizing-netflix-api.html)
 
@@ -15,5 +18,6 @@
 
 ##Data fetching
 * [Getting Started With Falcor](https://auth0.com/blog/2015/08/28/getting-started-with-falcor/) - from Auth0
+
 
 
