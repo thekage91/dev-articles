@@ -1,6 +1,7 @@
 ##Useful development blog
 * [John Papa](http://www.johnpapa.net/)
 * [Netflox Tech Blog](http://techblog.netflix.com/)
+* [Sahat Yalkabov] (http://sahatyalkabov.com/)
 
 ##Dev Tools
 * [Fake Online REST API for Testing and Prototyping](http://jsonplaceholder.typicode.com/)
@@ -19,5 +20,8 @@
 ##Data fetching
 * [Getting Started With Falcor](https://auth0.com/blog/2015/08/28/getting-started-with-falcor/) - from Auth0
 
+##Learning
+* [JavaScript Systems Music] (http://teropa.info/blog/2016/07/28/javascript-systems-music.html)
+* [Mapping the World of Music Using Machine Learning: Part 1] (https://tech.iheart.com/mapping-the-world-of-music-using-machine-learning-part-1-9a57fa67e366#.xrkb7q6fr)
 
 
